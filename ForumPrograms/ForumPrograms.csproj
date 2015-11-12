@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ForumPrograms.Program26</StartupObject>
+    <StartupObject>ForumPrograms.Program28</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program28.cs" />
+    <Compile Include="Program27.cs" />
     <Compile Include="Program26.cs" />
     <Compile Include="Program25.cs" />
     <Compile Include="Program24.cs" />
